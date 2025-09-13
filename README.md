@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cursive+Code&pause=100&lines=Hallo!+I'm+Jalla+👋)]
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Cursive+Code&pause=100&lines=Hallo!+I'm+Jalla+👋)
 
 I am an enthusiastic learner with proficiency in computer programming, seeking opportunities to develop skills, build network, and apply talent to substantial projects.
 I love building things. And I'm also intrested in startups!
